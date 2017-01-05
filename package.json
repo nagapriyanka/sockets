@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/nagapriyanka/sockets/issues"
   },
-  "homepage": "https://github.com/nagapriyanka/sockets#readme"
+  "homepage": "https://github.com/nagapriyanka/sockets#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }
